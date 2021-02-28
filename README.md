@@ -1,5 +1,5 @@
 # godev
-projeto teste prático para a terceira etapa do programa godev
+Projeto teste prático para a terceira etapa do programa godev
 
 Na pasta há 5 arquivos:
 
